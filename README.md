@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 📚 My research interest fields are:
   - Computer Vision
   - Multimodal Learning
+  - Explainable AI
   - Medical Image Processing
   - Machine Learning and Deep Learning
   - Visual Perception for Autonomous Vehicles
