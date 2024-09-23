@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, This is Sepehr 👋
 
 - 🏫 I'm a B.Sc. student in Computer Engineering at Amirkabir University of Technology (Tehran Polytechnic)
 
