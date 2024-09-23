@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🏫 I'm a B.Sc. student in Computer Engineering at Amirkabir University of Technology (tehran polytechnic)
+- 🏫 I'm a B.Sc. student in Computer Engineering at Amirkabir University of Technology (Tehran Polytechnic)
 
 - 📚 My research interest fields are:
   - Computer Vision
